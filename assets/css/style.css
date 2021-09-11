@@ -117,11 +117,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo {
-  font-size: 30px;
+  font-size: 20px;
   margin: 0;
   padding: 0;
   line-height: 1;
-  font-weight: 700;
+  font-weight: 600;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
@@ -131,7 +131,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height:30px;
 }
 
 .scrolled-offset {
@@ -147,7 +147,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar {
   padding: 0;
   text-align: center;
-  width: 100%;
+  width: 70%;
 }
 
 .navbar ul {
@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   list-style: none;
   align-items: center;
-  width: 100%;
+ 
   
 }
 
@@ -164,7 +164,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   margin-left: auto;
     margin-right: auto;
-    display:inline-block;
+    
 }
 
 .navbar a, .navbar a:focus {
